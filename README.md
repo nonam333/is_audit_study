@@ -1,1 +1,0 @@
-# is_audit_study
